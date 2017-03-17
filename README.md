@@ -14,6 +14,9 @@
 ![俄罗斯方块游戏实现效果图](https://github.com/SmallHedgehog/Games-Tetris/blob/master/res/2%20-%20%E5%89%AF%E6%9C%AC.png)
 
 
+## 操作方式
+ - 方向键（左、右、下）改变游戏块位置，方向键（上）改变游戏块形状
+ 
 ## 公共引用文件描述
 - res/目录下是程序中使用的资源文件，比如背景图片等；
 - Defines.h文件中定义的是const values，比如游戏区域的位置等信息；
