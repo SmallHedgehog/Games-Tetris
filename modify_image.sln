@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tetris", "modify_image\modify_image.vcxproj", "{4A1F817A-13D6-45CD-8914-EE62E8F8CB67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A1F817A-13D6-45CD-8914-EE62E8F8CB67}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A1F817A-13D6-45CD-8914-EE62E8F8CB67}.Debug|Win32.Build.0 = Debug|Win32
+		{4A1F817A-13D6-45CD-8914-EE62E8F8CB67}.Release|Win32.ActiveCfg = Release|Win32
+		{4A1F817A-13D6-45CD-8914-EE62E8F8CB67}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
