@@ -11,7 +11,7 @@
  - 开发语言: C++
 
 ## 实现效果图
-![俄罗斯方块游戏实现效果图](https://github.com/SmallHedgehog/Games-Tetris/blob/master/res/2%20-%20%E5%89%AF%E6%9C%AC.png)
+![俄罗斯方块游戏实现效果图](https://github.com/SmallHedgehog/Games-Tetris/blob/master/res/final.png)
 
 
 ## 操作方式
